@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucagoc
 - 👀 I’m interested in Android Application Development
-- 🌱 I’m currently learning C and Ocaml
+- 🌱 I’m currently learning C and Kotlin
 - 📫 Reach me at : lucagoc@pm.me
 
 <!---
