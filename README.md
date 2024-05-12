@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucagoc
-- 👀 I’m interested in Android Application Development
-- 🌱 I’m currently learning C and Kotlin
+- 👀 I’m interested in embedded systems and video game development
+- 🌱 I’m currently learning C and GDScript
 - 📫 Reach me at : lucagoc@pm.me
 
 <!---
