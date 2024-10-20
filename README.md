@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lucagoc
-- 👀 I’m interested in OpenCV, NerF and photogrammetry.
+- 👀 I’m interested in OpenCV, NeRF and photogrammetry.
 - 🌱 I’m currently learning C++ and Java.
 
 <!---
