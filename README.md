@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @lucagoc
-- 👀 I’m interested in OpenCV, NeRF and photogrammetry.
-- 🌱 I’m currently learning C++ and Java.
 
-<!---
-lucagoc/lucagoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Banner](banner.jpg)
+### About me
+- 👨‍🎓 **Student** at [ISIMA](https://www.isima.fr/), french engineering school.
+- 💖 Try to make funny games on **Game Jams**
+- 🤖 **VR** enthusiast.
+
+### Techs
+- 🎮 **Unity/Godot** for game development
+- 💾 **C/Java**
+
+### Other
+- 📱 **Android Hacking**
