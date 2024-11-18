@@ -8,7 +8,7 @@
 
 ### Techs
 - 🎮 **Unity/Godot** for game development.
-- 💾 **C/Java**
+- 💾 **C/C++/Java/Python**
 
 ### Other
 - 📱 **Android Hacking**
