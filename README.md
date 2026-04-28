@@ -1,14 +1,5 @@
+[![Header](./banner.jpg)](https://lucagoc.fr)
 
-![Banner](banner.jpg)
-### About me
-- 👨‍🎓 **Student** at [ISIMA](https://www.isima.fr/), french engineering school.
-- ⚡ **Specialized** in embedded systems.
-- 💖 Try to make funny games during **Game Jams**.
-- 🤖 **VR** enthusiast.
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,ocaml,godot,unity,flutter,fastapi,git,github,arduino,dotnet,md,obsidian,vscode,arch,linux,bash,docker,raspberrypi&perline=10)](https://skillicons.dev)
 
-### Techs
-- 🎮 **Unity/Godot** for game development.
-- 💾 **C/C++/Java/Python**
-
-### Other
-- 📱 **Android Hacking**
+[![GitHub Streak](https://streak-stats.demolab.com?user=lucagoc)](https://git.io/streak-stats)
