@@ -8,8 +8,6 @@
 
 ![Game Engines](https://skillicons.dev/icons?i=godot,unity&perline=10)
 
-![GitHub Commit Graph](./profile-3d-contrib/profile-green-animate.svg)
-
 ![Most Used Languages](./github-metrics-languages.svg)
 
 ## 🌐 Find Me
