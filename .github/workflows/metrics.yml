@@ -26,6 +26,26 @@ jobs:
           # Include forks in stats
           repositories_forks: yes
 
+          # Repositories to analyze
+          repositories: |
+            lucagoc/FlickDash
+            lucagoc/pypixelcolor
+            lucagoc/spaghetti
+            lucagoc/yoga-14APU8-linux
+            lucagoc/ibef-frontend
+            lucagoc/coreos-config
+            lucagoc/ATV-Kiosk-WebView
+            lucagoc/bdt-poutre-emulator
+            lucagoc/simple-esp8266-dht11-ha
+            lucagoc/lpwan-collision-simulation-front
+            lucagoc/PixelArcadeLauncher
+            lucagoc/projet-zz1-2
+            lucagoc/WakeCommander
+            lucagoc/ocaSnake
+            lucagoc/tetris-MP2I
+            lucagoc/SoundVoltexIO
+            lucagoc/study-rotary-phone
+
           # Languages plugin configuration
           plugin_languages: yes
           plugin_languages_analysis_timeout: 30
