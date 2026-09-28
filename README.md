@@ -8,8 +8,6 @@
 
 ![Game Engines](https://skillicons.dev/icons?i=godot,unity&perline=10)
 
-![Most Used Languages](./github-metrics-languages.svg)
-
 ## 🌐 Find Me
 
 - 🌍 Website: [lucagoc.fr](https://lucagoc.fr)
