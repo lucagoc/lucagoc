@@ -10,6 +10,8 @@
 
 ![GitHub Commit Graph](./profile-3d-contrib/profile-green-animate.svg)
 
+![Most Used Languages](./github-metrics-languages.svg)
+
 ## 🌐 Find Me
 
 - 🌍 Website: [lucagoc.fr](https://lucagoc.fr)
