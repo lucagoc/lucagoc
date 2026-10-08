@@ -7,8 +7,3 @@
 ![OS](https://skillicons.dev/icons?i=arch,debian,windows&perline=10)
 
 ![Game Engines](https://skillicons.dev/icons?i=godot,unity&perline=10)
-
-## 🌐 Find Me
-
-- 🌍 Website: [lucagoc.fr](https://lucagoc.fr)
-- 📫 Email: [lucagoc@pm.me](mailto:lucagoc@pm.me)
